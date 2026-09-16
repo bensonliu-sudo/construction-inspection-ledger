@@ -41,6 +41,10 @@ Lifecycle: `Submitted → Rejected → Resubmitted → Accepted → Closed`, wit
 
 Solidity 0.8 · Foundry (forge test / script) · OpenZeppelin AccessControl · Python off-chain scripts (IPFS upload, perceptual hashing, keeper, weather feed) · Sepolia testnet · Etherscan verification · GitHub Actions CI (`forge fmt --check`, `forge test`)
 
+## Live demo
+
+[Offline acceptance story (GitHub Pages)](https://bensonliu-sudo.github.io/construction-inspection-ledger/) — the presentation demo: one waterproofing job walked through submit → reject (rain, defect photo) → rectify → accept → close, each step linked to its Sepolia transaction. Self-contained page, no wallet needed.
+
 ## Verify without the source
 
 Contract addresses (Sepolia, chain id 11155111):
