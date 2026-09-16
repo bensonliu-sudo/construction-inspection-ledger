@@ -12,7 +12,7 @@ A tamper-evident record of the construction inspection → rejection → rectifi
 
 ## My role
 
-Technical lead in a team of five: system architecture, the interface-first work split (interfaces locked first, then parallel implementation), the `WorkAcceptanceLedger` state machine and integration tests, deployment scripts, off-chain tooling, and the live demo.
+Technical lead of the team: system architecture, the interface-first work split (interfaces locked first, then parallel implementation), the `WorkAcceptanceLedger` state machine and integration tests, deployment scripts, off-chain tooling, and the live demo.
 
 ## Architecture
 
@@ -59,4 +59,4 @@ Demo evidence uses de-identified sample forms and photos created for the project
 
 ## Contributors
 
-Team Pegasus: Bingcheng (Bensen) Liu (lead, architecture, ledger contract, integration, deployment, demo) · Cecilia Xue (ledger unit tests) · Haoyang Hu (weather oracle tests) · Yiran Cheng (registry tests) · Ziyi Zhao (TODO-CONFIRM: report and presentation)
+Team Pegasus: Bingcheng (Bensen) Liu · Cecilia Xue · Haoyang Hu · Yiran Cheng
