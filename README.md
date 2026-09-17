@@ -63,4 +63,4 @@ Demo evidence uses de-identified sample forms and photos created for the project
 
 ## Contributors
 
-Team Pegasus: Bingcheng (Bensen) Liu · Cecilia Xue · Haoyang Hu · Yiran Cheng
+Team Pegasus: Bingcheng (Benson) Liu · Cecilia Xue · Haoyang Hu · Yiran Cheng
